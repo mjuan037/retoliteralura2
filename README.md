@@ -77,7 +77,7 @@ Elija una opción:
 ```
 Selecciona la opción deseada ingresando el número correspondiente y sigue las instrucciones en pantalla.
 
-Hecho con ❤️ por Alejo
+Modificado por Juan
 
 
 
